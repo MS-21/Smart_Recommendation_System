@@ -1,0 +1,2 @@
+# Smart_Recommendation_System
+Personalized food recommendation model
